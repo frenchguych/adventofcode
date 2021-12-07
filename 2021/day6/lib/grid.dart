@@ -34,4 +34,3 @@ class Grid {
   int get result =>
       data.values.fold(0, (previousValue, element) => previousValue + element);
 }
-

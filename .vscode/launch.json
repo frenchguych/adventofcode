@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "2021/day6/test/part1_test.dart"
+            "program": "${file}"
         }
     ]
 }
